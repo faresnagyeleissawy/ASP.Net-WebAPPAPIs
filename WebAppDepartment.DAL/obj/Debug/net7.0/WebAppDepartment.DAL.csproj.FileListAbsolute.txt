@@ -1,0 +1,14 @@
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\bin\Debug\net7.0\WebAppDepartment.DAL.deps.json
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\bin\Debug\net7.0\WebAppDepartment.DAL.runtimeconfig.json
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\bin\Debug\net7.0\WebAppDepartment.DAL.dll
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\bin\Debug\net7.0\WebAppDepartment.DAL.pdb
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\obj\Debug\net7.0\WebAppDepartment.DAL.csproj.AssemblyReference.cache
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\obj\Debug\net7.0\WebAppDepartment.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\obj\Debug\net7.0\WebAppDepartment.DAL.AssemblyInfoInputs.cache
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\obj\Debug\net7.0\WebAppDepartment.DAL.AssemblyInfo.cs
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\obj\Debug\net7.0\WebAppDepartment.DAL.csproj.CoreCompileInputs.cache
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\obj\Debug\net7.0\WebAppDepartment.DAL.dll
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\obj\Debug\net7.0\refint\WebAppDepartment.DAL.dll
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\obj\Debug\net7.0\WebAppDepartment.DAL.pdb
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\obj\Debug\net7.0\WebAppDepartment.DAL.genruntimeconfig.cache
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.DAL\obj\Debug\net7.0\ref\WebAppDepartment.DAL.dll

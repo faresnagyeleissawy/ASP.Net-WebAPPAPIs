@@ -1,0 +1,15 @@
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\bin\Debug\net7.0\WebAppDepartment.BL.deps.json
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\bin\Debug\net7.0\WebAppDepartment.BL.dll
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\bin\Debug\net7.0\WebAppDepartment.BL.pdb
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\bin\Debug\net7.0\WebAppDepartment.DAL.dll
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\bin\Debug\net7.0\WebAppDepartment.DAL.pdb
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\obj\Debug\net7.0\WebAppDepartment.BL.csproj.AssemblyReference.cache
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\obj\Debug\net7.0\WebAppDepartment.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\obj\Debug\net7.0\WebAppDepartment.BL.AssemblyInfoInputs.cache
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\obj\Debug\net7.0\WebAppDepartment.BL.AssemblyInfo.cs
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\obj\Debug\net7.0\WebAppDepartment.BL.csproj.CoreCompileInputs.cache
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\obj\Debug\net7.0\WebAppDepartment.BL.csproj.CopyComplete
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\obj\Debug\net7.0\WebAppDepartment.BL.dll
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\obj\Debug\net7.0\refint\WebAppDepartment.BL.dll
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\obj\Debug\net7.0\WebAppDepartment.BL.pdb
+E:\backup\iti\EF\web api\lab\api\WebAppDepartment.BL\obj\Debug\net7.0\ref\WebAppDepartment.BL.dll
